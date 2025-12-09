@@ -1,2 +1,2 @@
-# eventsapp_dso
-DevSecOps
+# eventsappstart
+This is a simple events app
